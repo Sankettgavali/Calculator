@@ -1,0 +1,4 @@
+<!-- calculator.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="#4A5568">
+  <path d="M6 2C4.895 2 4 2.895 4 4v16c0 1.105.895 2 2 2h12c1.105 0 2-.895 2-2V4c0-1.105-.895-2-2-2H6zm0 2h12v3H6V4zm0 5h12v11H6V9zm2 2v2h2v-2H8zm4 0v2h2v-2h-2zm4 0v2h2v-2h-2zM8 15v2h2v-2H8zm4 0v2h2v-2h-2zm4 0v2h2v-2h-2z"/>
+</svg>
